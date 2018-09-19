@@ -2,7 +2,7 @@
 
 **Q1** : What is Software Process?
 
-**Q2** : 
+**Q2** : What is main characteristics of agile methodology?
 
 **Q3** : Explain what is Commit message?
 
@@ -21,8 +21,8 @@
 **Q1** : What is Software Process?
 > A1: Software development process is a method or structure expected to be followed for the development of software. Different processes like waterfall and iterative exists. In these processes;tasks like analysis, coding, testing and maintenance is really important.
 
-**Q2** : 
->A2: 
+**Q2** : What is main characteristics of agile methodology?
+>A2: Every person can approach the question from their own view, Nevertheless, you can list cross-functional team composition, face-to face communication, solving problems immediately after they are identified, and working solution as a primary metric of progress.
 
 **Q3** : Explain what is Commit message?
 >A3: Commit message is a feature of git which appears when you commit a change. Git provides you a text editor where you can enter the modifications made in commits.
